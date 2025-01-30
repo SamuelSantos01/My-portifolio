@@ -1,6 +1,6 @@
 import React from 'react'
 import Html from '../../assets/Html.png'
-import Css  from '../../assets/css.png'
+import Css  from '../../assets/CSS.png'
 import Github from '../../assets/Github.png'
 import Js from '../../assets/JS.png'
 import Java from '../../assets/logo-java-256.png'
