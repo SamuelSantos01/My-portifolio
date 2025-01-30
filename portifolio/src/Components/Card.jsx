@@ -15,6 +15,11 @@ export default function Card({ item }) {
                             Github Link
                         </a>
                     </button>
+                    <button className='bg-red-600 text-white px-3 py-2 rounded-md'>
+                        <a href={item.github} target='_blank' className='flex gap-1'>
+                            Visualizar projeto
+                        </a>
+                    </button>
                 </div>
             </div>
         </div>
